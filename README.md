@@ -2,7 +2,7 @@
 ## i code in javascript, html, css, node.js, bash, 
 # So yeah, bye
 [Replit](https://replit.com/@hlonipoole692)
-[about](https://www.yetnt.ml/about)
+[about](https://www.yetnt.tk/about)
 
 <!---
 Yetity/Yetity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Yeah Yeah!
