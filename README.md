@@ -4,7 +4,7 @@
 [Replit](https://replit.com/@hlonipoole692)
 [about](https://www.yetnt.tk/about)
 
-https://github-readme-stats.vercel.app/api?username=yetity&show_icons=true&theme=great-gatsby
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yetity&show_icons=true&theme=great-gatsby" alt="tomondre" />
 
 <!---
 Yetity/Yetity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Yeah Yeah!
