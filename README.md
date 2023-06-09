@@ -2,9 +2,8 @@
 ## i code in javascript, html, css, bash, and some times java 
 # So yeah, bye
 [Replit](https://replit.com/@hlonipoole692)
-[about](https://www.yetnt.tk/about)
 
-## Creator of
+## here are some cool npm packages you should def check out
 > [ump](https://www.npmjs.com/package/@yetnt/ump)
 > > ```bash
 > > npm i @yetnt/ump
