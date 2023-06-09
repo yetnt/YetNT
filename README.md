@@ -5,9 +5,13 @@
 [about](https://www.yetnt.tk/about)
 
 ## Creator of
-> [Ump](https://github.com/Yetity/ump) 
+> [ump](https://www.npmjs.com/package/@yetnt/ump)
 > > ```bash
 > > npm i @yetnt/ump
+> > ```
+> [progressbar](https://www.npmjs.com/package/@yetnt/progressbar)
+> > ```bash
+> > npm i @yetnt/progressbar
 > > ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yetity&show_icons=true&theme=great-gatsby" alt="tomondre" />
