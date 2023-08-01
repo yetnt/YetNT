@@ -12,8 +12,12 @@
 > > ```bash
 > > npm i @yetnt/progressbar
 > > ```
+> [disgamekit](https://www.npmjs.com/package/disgamekit)
+> > ```bash
+> > npm i disgamekit
+> > ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yetity&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yetnt&show_icons=true&theme=great-gatsby" alt="tomondre" />
 
 <!---
 Yetity/Yetity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Yeah Yeah!
