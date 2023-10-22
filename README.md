@@ -1,6 +1,8 @@
-### Sup im YetNTPlayZ or Yet, (but on github Yetity)
-## i code in javascript, html, css, bash, and some times java 
-# So yeah, bye
+<h1 align=center>yo</h1>
+<h2 align=center>i'm a 15 yr old nerd lol</h2>
+
+![YetNT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YetNT&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 [Replit](https://replit.com/@hlonipoole692)
 
 ## here are some cool npm packages you should def check out
@@ -17,7 +19,7 @@
 > > npm i disgamekit
 > > ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yetnt&show_icons=true&theme=great-gatsby" alt="tomondre" />
+
 
 <!---
 Yetity/Yetity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Yeah Yeah!
