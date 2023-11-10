@@ -6,15 +6,23 @@
 [Replit](https://replit.com/@hlonipoole692)
 
 ## here are some cool npm packages you should def check out
+> [ic4d](https://www.npmjs.com/package/ic4d)
+> Interaction and Command handler 4 Dummies
+> >  ```bash
+> >  npm i ic4d
+> >  ```
 > [ump](https://www.npmjs.com/package/@yetnt/ump)
+> Useless Math Package
 > > ```bash
 > > npm i @yetnt/ump
 > > ```
 > [progressbar](https://www.npmjs.com/package/@yetnt/progressbar)
+> String progressbar
 > > ```bash
 > > npm i @yetnt/progressbar
 > > ```
 > [disgamekit](https://www.npmjs.com/package/disgamekit)
+> Lightweight compact **Dis**cord.js **gamekit**
 > > ```bash
 > > npm i disgamekit
 > > ```
