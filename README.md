@@ -5,7 +5,7 @@
 
 [Replit](https://replit.com/@hlonipoole692)
 
-## here are some cool npm packages you should def check out
+## here are some cool npm packages you should def check out!
 > [ic4d](https://www.npmjs.com/package/ic4d)
 > Interaction and Command handler 4 Dummies
 > >  ```bash
