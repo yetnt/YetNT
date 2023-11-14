@@ -1,7 +1,7 @@
 <h1 align=center>yo</h1>
 <h2 align=center>i'm a 15 yr old nerd lol</h2>
 
-![YetNT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YetNT&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="700"></p>
 
 [Replit](https://replit.com/@hlonipoole692)
 
