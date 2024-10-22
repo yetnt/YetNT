@@ -1,4 +1,4 @@
-<h1 align=center>yo</h1>
+<h1 align=center>yoo</h1>
 <h2 align=center>i'm a 15 yr old nerd lol</h2>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="650"></p>
