@@ -1,5 +1,5 @@
-<h1 align=center>yoo</h1>
-<h2 align=center>i'm a 16 yr old nerd lol</h2>
+<h1 align=center>yo</h1>
+<h3 align=center>Believe me I'm not a sweat</h3>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="650"></p>
 
