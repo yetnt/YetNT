@@ -1,7 +1,7 @@
 <h1 align=center>yo</h1>
 <h3 align=center>Believe me I'm not a sweat</h3>
 
-<h2 align=center>check out this esolang im making : [Jaiva](https://gitHub.com/yetnt/jaiva)</h2>
+## check out this esolang im making : [Jaiva](https://gitHub.com/yetnt/jaiva)</h2>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="650"></p>
 
