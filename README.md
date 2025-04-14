@@ -1,6 +1,8 @@
 <h1 align=center>yo</h1>
 <h3 align=center>Believe me I'm not a sweat</h3>
 
+check out this esolang im making : [Jaiva](https://gitHub.com/yetnt/jaiva)
+
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="650"></p>
 
 [Replit](https://replit.com/@hlonipoole692)
