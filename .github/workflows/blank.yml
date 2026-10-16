@@ -30,6 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Africa/Windhoek
+          plugins_errors_fatal: yes # RMOVE
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
